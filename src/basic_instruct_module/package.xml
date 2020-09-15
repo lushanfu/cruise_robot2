@@ -61,9 +61,9 @@
 
   
   <!--use baisc_data_type package lib-->>
-  <build_depend>basic_data_type</build_depend>
+  <!-- <build_depend>basic_data_type</build_depend>
   <build_export_depend>basic_data_type</build_export_depend>
-  <exec_depend>basic_data_type</exec_depend>
+  <exec_depend>basic_data_type</exec_depend> -->
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
