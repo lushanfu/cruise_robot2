@@ -1,0 +1,5 @@
+<launch>
+<param name="isAuto" value="1" type="bool"  />
+<param name="isTakePhotos" value="0" type="bool"  />
+<param name="isConfirm" value="0" type="bool"  />
+</launch>
